@@ -1,0 +1,1 @@
+# This project for testing AstraDB with Groq LLM inference
